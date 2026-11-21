@@ -16,3 +16,5 @@ Library Management System using Java Swing.
 - Check exception handling.
 - Verify GUI functionality.
 - Suggest improvements before merging.
+All contributors should test their Java code before submitting a pull request.
+  
